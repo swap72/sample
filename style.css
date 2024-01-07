@@ -1,4 +1,21 @@
-.h1{
 
-  color: red;
+.main {
+margin-top: 100px;
+}
+
+
+.main>:first-child{
+
+    display: block;
+    margin-left: 100px;
+    margin-left: 530px;
+}
+
+.sam2{
+    display: block;
+    width: 530px;
+    height: 30px;
+    border-radius: 60px;
+    margin-top: 20px;
+    margin-left: 430px;
 }
