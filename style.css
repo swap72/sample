@@ -4,7 +4,7 @@ margin-top: 100px;
 }
 
 
-.main> .sam1{
+.main :first-child{
 
     display: block;
     margin-left: 100px;
