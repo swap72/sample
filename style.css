@@ -17,5 +17,6 @@ div > img {
     height: 30px;
     border-radius: 60px;
     margin-top: 20px;
-    margin-left: 430px;
+    margin-left: auto;
+    margin-right: auto;
 }
