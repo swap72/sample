@@ -4,7 +4,7 @@ margin-top: 100px;
 }
 
 
-.main :first-child{
+.main >:first-child{
 
     display: block;
     margin-left: 100px;
