@@ -22,5 +22,6 @@ div > img {
 }
 .para{
     border :2px solid brown;
+    background : grey;
     padding :25px;
 }
