@@ -1,4 +1,6 @@
-
+body{
+    flex-wrap: wrap;
+}
 .main  {
 margin-top: 60px;
 
@@ -50,7 +52,7 @@ font-size: 14.5px;
 
     
     .btn-wrapper{
-
+        flex-wrap: wrap;
         display: flex;
         justify-content: center;
     }
