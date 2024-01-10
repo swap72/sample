@@ -1,0 +1,27 @@
+body{
+    margin: 40px;
+    font-family: OCR A Std, 'Courier New', Courier, monospace ,sans-serif;
+}
+
+.avatar{
+    width: 200px;
+    border-radius: 5px;
+}
+.card{
+    
+    width: 400px;
+    margin: auto;
+    border-bottom: 5px solid #f5d9a4;
+    border-radius: 11px;
+    display: flex; 
+    justify-content: space-around;
+    padding: 20px;
+    background-color: antiquewhite;
+    padding: auto;
+}
+
+
+.flag{
+    
+    
+}
