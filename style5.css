@@ -1,7 +1,7 @@
 
 @font-face {
     font-family:  "myfont";
-    src: url(../sample/ocreg.ttf) format("ttf");
+    src: url(../sample/fonts/ocrastd.ttf) format("ttf");
 }
 
 h1{
