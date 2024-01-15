@@ -1,14 +1,13 @@
 
 @font-face {
-  font-family: 'ocr';
-  src: url(/fonts/OCRAStd.woff),format('.woff');
+  font-family: "ocr";
+  src: url("./fonts/OCRAStd.woff"),format('woff');
 }
 
 body{
-    font-family: 'ocr';
+    font-family: "ocr";
     margin: 0px;
     background-color: black;
-    
 }
  
 h1{
