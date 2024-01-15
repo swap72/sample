@@ -8,7 +8,10 @@
   font-family: "ocrastd";
   src: url("./fonts/ocrastd.ttf"),format("ttf");
 }
-
+@font-face {
+  font-family: "ocrastd";
+  src: url("/ocrastd.ttf"),format("ttf");
+}
 
 @font-face {
   font-family: "myfont";
