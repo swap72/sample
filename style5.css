@@ -1,0 +1,9 @@
+
+@font-face {
+    font-family: "sf23";
+    src: url(../ocreg.ttf);
+}
+
+h1{
+    font-family: "sf23";
+}
