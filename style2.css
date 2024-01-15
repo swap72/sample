@@ -1,10 +1,15 @@
 @font-face {
   font-family: 'ocr';
-  src: url(./fonts/ocrastd.ttf)format('.ttf');
+  src: url(./fonts/ocrastd.ttf) format('.ttf');
+}
+
+@font-face {
+  font-family: 'OCRAStd';
+  src: url(./fonts/OCRAStd.woff) format('.woff');
 }
 
 body{
-  font-family: 'ocr';
+  font-family: 'ocr', 'OCRAStd';
     margin: 0px;
     background-color: black;
     
