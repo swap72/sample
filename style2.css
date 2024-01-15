@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'ocr';
-  src: url(./fonts/ocrastd.ttf) format('.ttf');
+  src: url(/fonts/ocrastd.ttf) format('.ttf');
 }
 
 @font-face {
   font-family: 'OCRAStd';
-  src: url(./fonts/OCRAStd.woff) format('.woff');
+  src: url(/fonts/OCRAStd.woff) format('.woff');
 }
 
 body{
