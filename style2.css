@@ -1,7 +1,11 @@
 
+@font-face {
+  font-family: 'ocr';
+  src: url(/fonts/OCRAStd.woff),format('.woff');
+}
 
 body{
-    font-family: 'OCR-A', cursive;
+    font-family: 'ocr';
     margin: 0px;
     background-color: black;
     
