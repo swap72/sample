@@ -1,17 +1,17 @@
 @font-face {
-  font-family: 'OCR-A';
+  font-family: 'ocr';
   src: url(/fonts/ocrastd.ttf)format('.ttf');
 }
 
 body{
-  font-family: 'OCR-A';
+  font-family: 'ocr';
     margin: 0px;
     background-color: black;
     
 }
  
 h1{
-  font-family: 'OCR-A';
+  font-family: 'ocr';
   color: brown;
   display: flex;
   margin-top: 90px;
@@ -21,7 +21,7 @@ h1{
 }
 
 h2{
-  font-family: 'OCR-A';
+  font-family: 'ocr';
   color: brown;
   display: flex;
   margin-top: 150px;
