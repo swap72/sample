@@ -1,25 +1,9 @@
 
 @font-face {
-    font-family: "sf23";
-    src: url(../ocreg.ttf);
+    font-family:  "myfont";
+    src: url(../sample/fonts/OCRAStd.woff) format("woff");
 }
-
-@font-face {
-  font-family: "ocrastd";
-  src: url("../fonts/ocrastd.ttf"),format("ttf");
-}
-
-@font-face {
-  font-family: "myfont";
-  src: url("sample/fonts/OCRAStd.otf"),format("otf");
-}
-
-@font-face {
-  font-family: "ocr";
-  src: url("/fonts/OCRAStd.woff"),format('woff');
-}
-
 
 h1{
-    font-family: "sf23", "ocrastd", "myfont", "ocr";
+    font-family:  "myfont";
 }
