@@ -1,7 +1,9 @@
 body{
+    font-family: 'Roboto Mono', monospace;
     margin: 40px;
     font-family: OCR A Std, 'Courier New', Courier, monospace ,sans-serif;
 }
+
 
 .avatar{
     width: 200px;
