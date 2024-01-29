@@ -5,6 +5,7 @@ body{
   background-image: url("../sample/assets/img3.jpg"); 
   background-size: cover; 
   background-color: black; 
+  background-repeat: no-repeat;
   text-align: center;
 }
 
