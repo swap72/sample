@@ -4,6 +4,7 @@ body{
   color: white;
   background-image: url("../sample/assets/img3.jpg"); 
   background-size: cover; 
+  background-color: black; 
   text-align: center;
 }
 
